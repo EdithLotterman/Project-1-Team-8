@@ -1,5 +1,0 @@
-branchKY
-git add .
-git commit   >>> message in vs code
-git push
-git checkout -B <branch name>
