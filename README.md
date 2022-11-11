@@ -12,8 +12,8 @@ Visuals:
 Line graphs of hours watched by genre as the as y and month as x.
 Map of which countries are creating the most top ten content for netflix. 
 
-Satya: year and score or hours watched, highest rank and cumulative weeks in top ten.
+Satya: Correlations: year and score or hours watched, Correlations: highest rank and cumulative weeks in top ten.
 Edith: Line graphs of hours watched by genre as the as y and month as x. Total hours viewed for each rank for English-films, how much time is the top show watched vs. number two vs. number three, etc.
 Kevin: Slide Deck,Chi-square tests: use count genre with English Films as exp and the rest of the categories as obs.
-Zack: Fix runtime (could be some in seconds), production country and genre col, so that all match with each string format. runtime and imdb rating or votes, age_certification and imdb score or votes, 
+Zack: Fix runtime (could be some in seconds), production country and genre col, so that all match with each string format. Correlations: runtime and imdb rating or votes, age_certification and imdb score or votes, 
 
