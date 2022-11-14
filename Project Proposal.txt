@@ -8,9 +8,3 @@
 * https://top10.netflix.com/tv
 * https://www.kaggle.com/datasets/shivamb/netflix-shows
 * Google Maps API
-
-
-
-```python
-
-```
